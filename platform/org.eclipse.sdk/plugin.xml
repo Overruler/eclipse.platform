@@ -10,6 +10,9 @@
           <property name="appName" value="Eclipse"/> 
           <property name="preferenceCustomization" value="plugin_customization.ini"/>
           <property
+          		name="fontList"
+          		value="SourceCodePro-Black.ttf,SourceCodePro-Bold.ttf,SourceCodePro-ExtraLight.ttf,SourceCodePro-Light.ttf,SourceCodePro-Medium.ttf,SourceCodePro-Regular.ttf,SourceCodePro-Semibold.ttf"/>
+          <property
           		name="introTitle"
           		value="%productIntroTitle"/>
           <property
@@ -33,7 +36,7 @@
 		  </property>
 		  <property
 				name="cssTheme"
-				value="org.eclipse.e4.ui.css.theme.e4_default">
+				value="net.jeeeyul.eclipse.themes.custom">
 		  </property>
 		  <property
 				name="applicationCSSResources"
@@ -45,7 +48,7 @@
         		value="9c9696"/>
           <property
                 name="startupMessageRect"
-                value="7,265,320,20"/>
+                value="7,-265,320,20"/>
           <property
                 name="startupProgressRect"
                 value="2,290,448,10"/>

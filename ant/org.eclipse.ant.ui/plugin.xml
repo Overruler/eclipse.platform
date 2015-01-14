@@ -109,7 +109,7 @@ M4 = Platform-specific fourth key -->
             commandId="org.eclipse.ant.ui.openExternalDoc"
             schemeId="org.eclipse.ui.defaultAcceleratorConfiguration"/>
        <key
-            sequence="M2+M3+R"
+            sequence="F2"
             contextId="org.eclipse.ant.ui.AntEditorScope"
             commandId="org.eclipse.ant.ui.renameInFile"
             schemeId="org.eclipse.ui.defaultAcceleratorConfiguration"/>
